@@ -37,13 +37,15 @@ Desktop: Full table view with pagination
 
 Mobile: Horizontally scrollable table for usability
 
-📸 Screenshots
-🖥 Desktop View
+## 📸 Screenshots
 
+### 🖥️ Desktop View
+![Desktop View 1](screenshots/desktop1.png)
+![Desktop View 2](screenshots/desktop2.png)
 
+### 📱 Mobile View
+![Mobile View](screenshots/mobile.png)
 
-
-📱 Mobile View
 
 👩‍💻 Author
 
